@@ -19,11 +19,6 @@ main_menu:
   - title: Store
     url: /store
     style: link
-  - title: lorem-ipsum
-    url: lorem-ipsum
-    style: primary
-    arrow: false
-    type: action
   - title: FAQ
     url: /faq
     style: link
