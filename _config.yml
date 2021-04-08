@@ -24,9 +24,6 @@ main_menu:
     style: primary
     arrow: false
     type: action
-  - title: About
-    url: /about
-    style: link
   - title: FAQ
     url: /faq
     style: link
