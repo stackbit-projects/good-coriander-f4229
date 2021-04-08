@@ -36,7 +36,8 @@ main_menu:
     url: /faq
     style: link
   - title: Laptop
-    url:  
+    url: /laptop
+      
 sass:
   style: nested
   precision: 10
