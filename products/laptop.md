@@ -6,7 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 layout: product
-category: category/category-fgs9062g4.md
+category: category/category-ff1fxv8gz.md
 ---
 ## Lorem ipsum
 
