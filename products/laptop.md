@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: laptop
-description: lorem-ipsum
+description: 'Best laptop '
 price: lorem-ipsum
 order: 0
 featured: false
